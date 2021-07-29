@@ -57,6 +57,10 @@ ul {margin: 0px; list-style:none;padding:0px; }
   align-content: center; 
   margin: 0px; 
 }
+.selected {
+  background-color: yellow;
+  font-weight: bold; 
+}
 /* Credit Card */
 .credit-card {
     width: 360px;
